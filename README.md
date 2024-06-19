@@ -1,6 +1,7 @@
 <h2> Hey! I'm Francesco 👋🏻</h2>
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/m/qb91FDKFHf4AAAAd/tonberry-from-ff-lots-of-love.gif" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/tiO3tMGP9gwAAAAC/cactuar-final-fantasy.gif" width=50px height=50px/>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
