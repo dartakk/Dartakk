@@ -26,7 +26,7 @@
 <br/>
 
 <a href="https://github.com/Dartakk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dartakk&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dartakk&theme=buefy&show_icons=true" width=100px />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dartakk&theme=buefy&layout=compact" />
 </a>
 
