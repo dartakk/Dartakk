@@ -26,8 +26,8 @@
 <br/>
 
 <a href="https://github.com/Dartakk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dartakk&theme=buefy&show_icons=true" width=200px />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dartakk&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dartakk&theme=buefy&show_icons=true" width=300px />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dartakk&theme=buefy&layout=compact" width=300px />
 </a>
 
 <br/>
