@@ -1,6 +1,6 @@
 <h2> Hey! I'm Francesco 👋🏻</h2>
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/m/tiO3tMGP9gwAAAAC/cactuar-final-fantasy.gif" width=50px height=50px/>
+<img align="right" alt="GIF" src="https://media1.tenor.com/m/tiO3tMGP9gwAAAAC/cactuar-final-fantasy.gif" width=100px height=100px/>
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
