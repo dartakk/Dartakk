@@ -1,4 +1,4 @@
-<h2> Hey! I'm Francesco 👋🏻</h2>
+<h1> Hey! I'm Francesco 👋🏻</h1>
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/tiO3tMGP9gwAAAAC/cactuar-final-fantasy.gif" width=350px height=350px/>
 
