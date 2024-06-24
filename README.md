@@ -5,8 +5,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 📚 &nbsp; Exploring new technologies and learning new language.
-- 💼 &nbsp; Searching for a job as Full Stack Developer.
+- 🖥 &nbsp; Junior Full Stack Developer
 
 <h3> 🛠 &nbsp;Tech</h3>
 
